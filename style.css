@@ -1,0 +1,62 @@
+body {
+    background-color: #424642 !important;
+}
+
+.navbar {
+    justify-content: center;
+    border-width: 5px;
+    border-color: 8px solid #C06014; 
+}
+
+
+form {
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.a {
+    display: flex ;
+    min-height: 91.5vh;
+    max-height: 91.5vh !important;
+    justify-content: center;
+    
+}
+
+.space {
+    height: 7.5vh;
+}
+
+.regst {
+    padding: 12px;
+}
+
+.btn-outline-secondary {
+    border-color: #C06014 !important;
+    color: #F3F4ED !important;
+}
+
+.form-label {
+    color: #F3F4ED ;
+}
+
+.nav-item {
+    margin-left: 10px;
+}
+
+#regBtn {
+    margin-top: 20px;
+}
+
+#form1 {
+    display: flex;
+    justify-content: center;
+}
+
+#form2 {
+    display: flex;
+    justify-content: center;
+}
